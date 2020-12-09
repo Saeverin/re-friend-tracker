@@ -162,7 +162,7 @@ export class GuiModel {
                         {
                             "id": "name",
                             "type": "text",
-                            "name": "ActivityName",
+                            "name": "Activity",
                             "width": 2,
                             "required": true
                         },
